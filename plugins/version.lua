@@ -1,22 +1,14 @@
 do
 
 function run(msg, matches)
-  return 'TeleBeyond Api Bot v1.0'.. [[ 
-An Advanced Administration Api Bot Based On TeleSeed
-
-First Time Open Source By @SoLiD021 & @idivanmanheb
-
-Source On GitHub :
-http://GitHub.com/BeyondTeam/Api-TeleBeyond
-
-Sudo Users :
-
-Developer&Founder : @SoLiD021
-
-Helper&Manager : @idivanmanheb
-
-Team Channel :
-Telegram.me/BeyondTeam]]
+  return 'سورس ديف ايسل'.. [[ 
+افضل بوت على التلكَرام الاصدار الاول !
+السورس :
+https://github.com/DEVASL/API-DEVASL
+المطور :
+Developer : @phplua
+قناة التطوير :
+Telegram.me/devasl]]
 end
 
 return {
