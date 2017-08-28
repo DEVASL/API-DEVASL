@@ -1,27 +1,22 @@
-#Api TeleBeyond
+#Api DEVASL
 
-**An advanced and powerful administration api bot based on TeleSeed licensed under the [GNU General Public License](https://github.com/solid021/Api-TeleBeyond/blob/master/LICENSE)**.
-
-#[Api-TeleBeyond Development](https://telegram.me/joinchat/CVyJuz6_PJBUrk_w--1JXw)
+#[Development](https://telegram.me/DEVASL)
 #Join Please :)
-
-#Don't Forget Star To Us ;)
 
 # Lets Install :D
 
 ```sh
-# Install dependencies.
-# Tested on Ubuntu 14.04. For other OSs, check out
+# Install
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 cd $HOME
-git clone http://Github.com/BeyondTeam/Api-TeleBeyond.git
-cd Api-TeleBeyond
+git clone http://Github.com/DEVASL/API-DEVASL
+cd API-DEVASL
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
 
-And Enter Your Bot Token :D
+TOKIN BOT :D
 ```
 ### One command
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
@@ -42,23 +37,7 @@ Put Your Telegram ID In ./data/config.lua
 Then restart the bot.
 
 #Sudo Users :
-
-#([SoLiD](https://telegram.me/SoLiD021))
-
-#([Behnam](https://telegram.me/idivaNmanheB))
+#([SoLiD](https://telegram.me/PHPLUA))
 
 #Team Channel :
-
-#([@BeyondTeam](https://telegram.me/BeyondTeam))
-
-#Special Thx To :
-
-#([MrHalix](https://telegram.me/MrHalix))
-
-Seed Team
-
-TelePro Team
-
-And All My Friends
-
-#Good Luck :D
+#([@BeyondTeam](https://telegram.me/DEVASL))
